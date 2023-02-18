@@ -8,11 +8,11 @@ jobs:
     steps:
       - name: Curl Api
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TOKEN: ${{ secrets.TOKEN }}
         run: |
           curl \
             -X POST \
-            -H "Authorization: token ${GITHUB_TOKEN}" \
+            -H "Authorization: token ${TOKEN}" \
             -H "Accept: application/vnd.github.v3+json" \
-            https://api.github.com/repos/MuscariServer/muscari-web/dispatches \
+            https://api.github.com/repos/MuscariServer/muscari-web/actions/workflows/deploy-article.yml/dispatches \
             -d '{"event_type":"update-articles"}'
