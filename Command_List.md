@@ -7,7 +7,7 @@ title: "コマンドの使い方"
 # if not specified, .name will be used from _data/owner/[language].yml
 author: rkcyk706
 # multiple category is not supported
-category: 不明
+category: Tips
 # multiple tag entries are possible
 tags: [test]
 # thumbnail image for post
@@ -16,7 +16,7 @@ img: ":post_test.png"
 #comments_disable: true
 
 # publish date
-date: 2023-02-20 18:00:00 +0900
+date: 2023-02-20 22:50:00 +0900
 
 # seo
 # if not specified, date will be used.
@@ -80,8 +80,6 @@ date: 2023-02-20 18:00:00 +0900
 | `/tpaccept <id>`    | 申請・要請を受け入れます。(画面にボタンが表示されます)  |
 | `/tpadeny <id>`     | 申請・要請を拒否します。(画面にボタンが表示されます)   |
 
-
-
 # その他のコマンド <a id="misc_command"></a>
 
 | コマンド          | 説明                           |
@@ -90,8 +88,6 @@ date: 2023-02-20 18:00:00 +0900
 | `/trashcan`   | アイテムを入れて閉じると削除されるイベントリを開きます。 |
 | `/hat`        | 持ってるアイテムやブロックを頭にかぶります。       |
 | `/hat <name>` | チャットのニックネームを変更します。           |
-
-
 
 # 管理者コマンド
 
