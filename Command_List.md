@@ -1,6 +1,6 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_What_is_this
+lng_pair: command_list_rkcyk706
 title: "コマンドの使い方"
 
 # post specific
@@ -39,7 +39,7 @@ date: 2023-02-20 22:50:00 +0900
 #published: false
 ---
 
-![幽世ゲート](2023-02-21_17.54.58.png "幽世ゲート"){: .img-responsive}
+![幽世ゲート](https://muscari.f5.si/blog/assets/img/posts/2023-02-21_17.54.58.png "幽世ゲート"){: .img-responsive}
 
 # コマンド一覧
 
