@@ -9,9 +9,9 @@ author: rkcyk706
 # multiple category is not supported
 category: Tips
 # multiple tag entries are possible
-tags: [test]
+tags: [Tips]
 # thumbnail image for post
-img: ":post_test.png"
+img: ":2023-02-21_17.54.58.png"
 # disable comments on this page
 #comments_disable: true
 
@@ -38,6 +38,8 @@ date: 2023-02-20 22:50:00 +0900
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
+
+![幽世ゲート](2023-02-21_17.54.58.png "幽世ゲート"){: .img-responsive}
 
 # コマンド一覧
 
@@ -89,9 +91,9 @@ date: 2023-02-20 22:50:00 +0900
 | `/hat`        | 持ってるアイテムやブロックを頭にかぶります。       |
 | `/hat <name>` | チャットのニックネームを変更します。           |
 
-# 管理者コマンド
+# 管理者コマンド <a id="admin_command"></a>
 
-## チャンク事前生成
+## チャンク事前生成 <a id="chunk_pregen"></a>
 
 | コマンド                              | 説明                                |
 | --------------------------------- | --------------------------------- |
