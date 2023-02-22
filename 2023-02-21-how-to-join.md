@@ -90,7 +90,7 @@ ____
 
 ということで今回はWindows版Prism Launcherの解説をします。
 
-上のURLからOSにあった物を選び、ダウンロードして実行します。案内に従いインストールします。
+上のURLからOSにあった物を選び、ダウンロードして実行し案内に従いインストールします。
 デスクトップにショートカットを置きたい方は「Desktop Shortcut」にチェックマークを入れるといいでしょう。
 
 ![ランチャーインストール画面](https://muscari.f5.si/blog/assets/img/posts/launcher_setup_1.png){: .img-responsive}
@@ -141,7 +141,7 @@ Mojangアカウントから移行してない人は早めにMicrosoftアカウ�
 
 ランチャーメイン画面からインスタンスを追加(E)を押します。
 
-![インスタンスを追加](https://muscari.f5.si/blog/assets/img/posts/after_adding_account.png){: .img-responsive}
+![インスタンスを追加](https://muscari.f5.si/blog/assets/img/posts/launcher_after_adding_account.png){: .img-responsive}
 
 別ウィンドウが立ち上がるので左の欄の「Zipからインポート」を押します。
 
